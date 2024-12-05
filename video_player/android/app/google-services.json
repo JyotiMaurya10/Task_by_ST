@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690490364095",
+    "project_id": "task-by-st-352ca",
+    "storage_bucket": "task-by-st-352ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690490364095:android:9341f18bc6dd45fb23f60a",
+        "android_client_info": {
+          "package_name": "com.example.video_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITe6Yuzh0SCw6AFhQbhg53njJbpwOVzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
